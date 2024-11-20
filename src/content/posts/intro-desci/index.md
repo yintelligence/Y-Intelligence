@@ -60,7 +60,7 @@ Maksud dari inovasi disruptif itu adalah perubahan besar yang mengubah cara kita
 Sebenarnya masalah penelitian yang dijabarkan di atas itu bisa terjadi karena berbagai alasan, beberapa di antaranya adalah semakin meningkatnya pendanaan yang sentralisasi dan koordinasi yang berbeda-beda yang mana tidak memungkinkan terjadinya eksplorasi ilmu pengetahuan dan eksperimentasi yang meluas. Di sinilah DeSci (Decentralized Science) muncul sebagai solusi untuk membuka kembali pintu-pintu bagi inovasi ilmiah.
 
 ## How DeSci Improves Science
-Adanya DeSci merupakan inovasi disruptif yang mengubah sistem tradisional science saat ini. DeSci menawarkan berbagai manfaat yang berpotensi merevolusi lanskap penelitian ilmiah. Di bawah ini adalah tabel yang menguraikan perbedaan dari DeSci dan TradSci.
+Adanya DeSci merupakan inovasi disruptif yang mengubah sistem TradSci atau tradisional science saat ini. DeSci menawarkan berbagai manfaat yang berpotensi merevolusi lanskap penelitian ilmiah. Di bawah ini adalah tabel yang menguraikan perbedaan dari DeSci dan TradSci.
 
 | Feature | TradSci | DeSci |
 | --- | --- | --- |
