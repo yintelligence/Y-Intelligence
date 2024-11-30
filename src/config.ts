@@ -44,7 +44,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'Founder',
-      url: 'https://main-portfolio-ten-tan.vercel.app/',     // Internal links should not include the base path, as it is automatically added
+      url: 'https://yudhyprayitno.vercel.app/',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
